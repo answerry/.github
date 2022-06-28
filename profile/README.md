@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="images/article.svg" height="200" /><br>
-  
-  # <b>Answerry</b>
-  
+  <img src="images/answerry_logo_text_outline.svg" height="175"/><br>
+
   ### ~ Read Less Know More ~
 </div>
 
