@@ -1,11 +1,10 @@
 <div align="center">
-  <br>
   <img src="images/article.svg" height="200" /><br>
   
   # <b>Answerry</b>
   
   ### ~ Read Less Know More ~
-  <br><br>
+  <br>
 </div>
 
 ## Our Vision...
